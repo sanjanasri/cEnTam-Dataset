@@ -1,6 +1,6 @@
 # cEnTam-Dataset
 
-This Repository contains parallel corpus for English-Tamil Language Pair.  The data provided is a collectionof sentences taken from textbooks, bilingual novels, storybooks and bilingual websites that includes tourism, healthand news domains.  
+This Repository contains parallel corpus for English-Tamil Language Pair.  The data provided is a collectionof sentences taken from textbooks, bilingual novels, storybooks and bilingual websites that includes tourism, health and news domains. The dataset is provided as .xml file in unicode format. 
 
 Bilingual sentences - 56495
 ## Monolingual
@@ -8,7 +8,7 @@ English - 457396
 
 Tamil -563568
 
-Kindly cite the below-given paper if you use our dataset or source code.
+Kindly cite the below-given paper if you use our dataset.
 
 @inproceedings{jp-etal-2020-centam,
     title = "c{E}n{T}am: Creation and Validation of a New {E}nglish-{T}amil Bilingual Corpus",
@@ -26,3 +26,6 @@ Kindly cite the below-given paper if you use our dataset or source code.
     language = "English",
 
 }
+
+
+If you need Monolingual dataset, do mail us sanjanashree@gmail.com, vijaykrishnamenon@gmail.com
