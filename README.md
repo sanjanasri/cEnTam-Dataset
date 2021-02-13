@@ -4,9 +4,9 @@ This Repository contains parallel corpus for English-Tamil Language Pair.  The d
 
 Bilingual sentences - 56495
 ## Monolingual
-English - 457396
+English sentences- 457396
 
-Tamil -563568
+Tamil sentences -563568
 
 Kindly cite the below-given paper if you use our dataset.
 
